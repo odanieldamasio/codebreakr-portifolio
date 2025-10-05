@@ -1020,7 +1020,7 @@ export default function Home() {
               <h3 className="font-bold mb-4 text-sm">Redes Sociais</h3>
               <div className="flex gap-3">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/odanieldamasio/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded border border-border flex items-center justify-center hover:border-[#D10F3C] hover:bg-[#D10F3C] hover:text-white transition-all"
@@ -1029,7 +1029,7 @@ export default function Home() {
                   <Linkedin size={18} aria-hidden="true" />
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/odanieldamasio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded border border-border flex items-center justify-center hover:border-[#D10F3C] hover:bg-[#D10F3C] hover:text-white transition-all"
@@ -1038,22 +1038,13 @@ export default function Home() {
                   <Github size={18} aria-hidden="true" />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/_odanieldamasio/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded border border-border flex items-center justify-center hover:border-[#D10F3C] hover:bg-[#D10F3C] hover:text-white transition-all"
                   aria-label="Instagram"
                 >
                   <Instagram size={18} aria-hidden="true" />
-                </a>
-                <a
-                  href="https://twitter.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-10 h-10 rounded border border-border flex items-center justify-center hover:border-[#D10F3C] hover:bg-[#D10F3C] hover:text-white transition-all"
-                  aria-label="Twitter"
-                >
-                  <Twitter size={18} aria-hidden="true" />
                 </a>
               </div>
             </div>

@@ -24,6 +24,9 @@ export const metadata: Metadata = {
     "sistemas de gestão",
     "aplicativos mobile",
   ],
+  icons: {
+    icon: "/favicon.ico",
+  },
   authors: [{ name: "Codebreakr" }],
   creator: "Codebreakr",
   publisher: "Codebreakr",
